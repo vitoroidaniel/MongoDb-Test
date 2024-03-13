@@ -1,0 +1,116 @@
+[
+    {
+        "_id": {
+            "$oid": "65f18482eec1760bafb88659"
+        },
+        "id_emp": 1,
+        "id_department": 1,
+        "name_emp": "Employee Name",
+        "surname_emp": "Employee Surname",
+        "adress_emp": "Employee Address",
+        "gender_emp": "M/F",
+        "date_birth_emp": "2024-03-13 10:48:34",
+        "idnp_emp": "Employee IDNP",
+        "position": "Employee Position",
+        "hiredate_emp": "2024-03-13 10:48:34",
+        "hours_worked": 100,
+        "hourly_rate": 20,
+        "total_salary": 0,
+        "num_childrens": 0
+    },
+    {
+        "_id": {
+            "$oid": "65f18493eec1760bafb8865a"
+        },
+        "id_emp": 1,
+        "id_department": 1,
+        "name_emp": "Employee Name",
+        "surname_emp": "Employee Surname",
+        "adress_emp": "Employee Address",
+        "gender_emp": "M/F",
+        "date_birth_emp": "1990-01-01T00:00:00Z",
+        "idnp_emp": "Employee IDNP",
+        "position": "Employee Position",
+        "hiredate_emp": "2022-01-01T00:00:00Z",
+        "hours_worked": 100,
+        "hourly_rate": 0,
+        "total_salary": 0,
+        "num_childrens": 0
+    },
+    {
+        "_id": {
+            "$oid": "65f186a4eec1760bafb8865b"
+        },
+        "id_emp": 1,
+        "id_department": 1,
+        "name_emp": "Employee Name",
+        "surname_emp": "Employee Surname",
+        "adress_emp": "Employee Address",
+        "gender_emp": "M/F",
+        "date_birth_emp": "1990-01-01T00:00:00Z",
+        "idnp_emp": "Employee IDNP",
+        "position": "Employee Position",
+        "hiredate_emp": "2022-01-01T00:00:00Z",
+        "hours_worked": 100,
+        "hourly_rate": 0,
+        "total_salary": 0,
+        "num_cssdildrens": 0
+    },
+    {
+        "_id": {
+            "$oid": "65f186c5eec1760bafb8865c"
+        },
+        "id_emp": 1,
+        "id_department": 1,
+        "name_emp": "Employee Name",
+        "surname_emp": "Employee Surname",
+        "adress_emp": "Employee Address",
+        "gender_emp": "M/F",
+        "date_birth_emp": "1990-01-01T00:00:00Z",
+        "idnp_emp": "Employee IDNP",
+        "position": "Employee Position",
+        "hiredate_emp": "2022-01-01T00:00:00Z",
+        "hours_worked": 100,
+        "hourly_rate": 25,
+        "total_salary": 20000,
+        "num_childrens": 2
+    },
+    {
+        "_id": {
+            "$oid": "65f189e6bc379409b14eb111"
+        },
+        "id_emp": 1,
+        "id_department": 2,
+        "name_emp": "asd",
+        "surname_emp": "asd",
+        "adress_emp": "asd",
+        "gender_emp": "M",
+        "date_birth_emp": "1990-01-01 00:00:00",
+        "idnp_emp": "12312412",
+        "position": "FrontEnd",
+        "hiredate_emp": "1990-01-01 00:00:00",
+        "hours_worked": 100,
+        "hourly_rate": 2.0,
+        "total_salary": 100000.0,
+        "num_childrens": 2
+    },
+    {
+        "_id": {
+            "$oid": "65f199c7fc4e075c566935f7"
+        },
+        "id_emp": 10,
+        "id_department": 2,
+        "name_emp": "Gigel",
+        "surname_emp": "Mamaliga",
+        "adress_emp": "asda",
+        "gender_emp": "M",
+        "date_birth_emp": "2004-01-12 10:01:22",
+        "idnp_emp": "1254123",
+        "position": "Gigel Squad",
+        "hiredate_emp": "2023-01-23 14:02:22",
+        "hours_worked": 69,
+        "hourly_rate": 69.0,
+        "total_salary": 69000.0,
+        "num_childrens": 69
+    }
+]
