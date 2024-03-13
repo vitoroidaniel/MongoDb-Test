@@ -51,6 +51,6 @@ The Python script `conn_mongo.py` provides functionalities to add, delete, and u
 
 1. Make sure you have Python installed on your system.
 2. Install the required Python packages by running `pip install pymongo`.
-3. Run the script using `python manage_db.py`.
+3. Run the script using `python conn_mongo.py`.
 
 Have fun, also I will add a little documentation/guide for how to install MongoDb and basic of MongoDb
