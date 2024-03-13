@@ -1,5 +1,5 @@
 # MongoDb-Test
-![alt text]([http://url/to/img.png](https://community-cdn-digitalocean-com.global.ssl.fastly.net/Y6CTsYdHM2L7rcnrUqK8ZgVq))
+![Image](./images/example.png)
 # Test Database for an IT Company
 
 This repository contains scripts and data for setting up a test database for an IT company. The database includes collections for employees, departments, and children associated with employees.
