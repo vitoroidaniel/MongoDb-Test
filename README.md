@@ -8,7 +8,7 @@ This repository contains scripts and data for setting up a test database for an 
 
 The database is designed using MongoDB. To set up the database, follow these steps:
 
-1. Install MongoDB on your system if you haven't already.
+1. Install [MongoDb](https://www.mongodb.com/docs/mongodb-shell/) on your system if you haven't already.
 2. Start the MongoDB service.
 3. Use the provided Python script to add, delete, and update data in the database.
 
