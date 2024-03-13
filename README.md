@@ -45,7 +45,7 @@ The database is designed using MongoDB. To set up the database, follow these ste
 
 ## Python Script
 
-The Python script `manage_db.py` provides functionalities to add, delete, and update data in the MongoDB database. It also includes functionality to export the database to JSON format.
+The Python script `conn_mongo.py` provides functionalities to add, delete, and update data in the MongoDB database. It also includes functionality to export the database to JSON format.
 
 ### Usage:
 
