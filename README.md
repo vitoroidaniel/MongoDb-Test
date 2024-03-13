@@ -1,4 +1,5 @@
 # MongoDb-Test
+![Image]([https://example.com/image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mongodb.com%2F&psig=AOvVaw3um-NOzatgFo-Jb2kHr-7s&ust=1710443949973000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPC46rH68YQDFQAAAAAdAAAAABAE))
 # Test Database for an IT Company
 
 This repository contains scripts and data for setting up a test database for an IT company. The database includes collections for employees, departments, and children associated with employees.
