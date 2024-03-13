@@ -1,5 +1,5 @@
 # MongoDb-Test
-![Image](./images/example.png)
+![Image](mongodb.png)
 # Test Database for an IT Company
 
 This repository contains scripts and data for setting up a test database for an IT company. The database includes collections for employees, departments, and children associated with employees.
