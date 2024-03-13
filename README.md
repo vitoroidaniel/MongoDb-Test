@@ -1,4 +1,4 @@
-# MongoDb-Test
+# MongoDb
 ![Image](mongodb.png)
 # Test Database for an IT Company
 
