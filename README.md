@@ -2,6 +2,8 @@
 ![Image](mongodb.png)
 # Test Database for an IT Company
 
+👋 Hi there! If you enjoy my content and would like to support me, consider buying me a coffee ☕️: [Buy Me a Coffee](https://www.buymeacoffee.com/danikavitoroi)
+
 This repository contains scripts and data for setting up a test database for an IT company. The database includes collections for employees, departments, and children associated with employees.
 
 ## Database Setup
